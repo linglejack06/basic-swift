@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		5C5B0C352B0002CF003224AC /* checkpoint7.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = checkpoint7.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		5C5D71B42AF9B273004FFC92 /* checkpoint5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = checkpoint5.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
@@ -14,6 +15,7 @@
 		5C5D71AD2AF9B230004FFC92 = {
 			isa = PBXGroup;
 			children = (
+				5C5B0C352B0002CF003224AC /* checkpoint7.playground */,
 				5C5D71B42AF9B273004FFC92 /* checkpoint5.playground */,
 			);
 			sourceTree = "<group>";
