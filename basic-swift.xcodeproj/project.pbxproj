@@ -10,6 +10,7 @@
 		5C0909F42B01301F00F50476 /* checkpoint8.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = checkpoint8.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		5C5B0C352B0002CF003224AC /* checkpoint7.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = checkpoint7.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		5C5D71B42AF9B273004FFC92 /* checkpoint5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = checkpoint5.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		5C6D3A7F2AFD9C88000EF9D2 /* checkpoint6.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = checkpoint6.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
